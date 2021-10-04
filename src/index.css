@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.custom-block{
+  margin: 120px 0px;
+  border-radius: 25px;
+  /* display: flex; */
+  /* flex-flow: row nowrap; */
+  
+}
+
+.fw-700{
+  font-weight: 700;
+}
+
+.br-25{
+  border-radius: 25px;
+}
+
+.hobbies-header{
+  display: flex;
+  justify-content: space-between;
+}
